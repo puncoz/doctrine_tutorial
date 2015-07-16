@@ -1,0 +1,8 @@
+{
+	"name" : "Doctrine/Tutorial_2",
+	"description" : "Doctrine tutorial 2",
+	"require" : {
+		"php" : ">=5.5",
+		"doctrine/orm" : "*"
+	}
+}
